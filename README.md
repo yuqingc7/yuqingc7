@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **yuqingc7/yuqingc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Yuqing Chen (she/her). My first name can be pronounced as "yu-ch'ing". Friends also call me Iris. 
+
+I'm currently a Conservation Biology PhD candidate at the Department of Natural Resources and the Environment, Cornell University. 
+- 🌊 My research focuses on marine population conservation and restoration
+- 🧬 I'm interested in Evolutionary and ecological inquiries about shellfish populations
+- 🦪 I primarily study eastern oysters and a little bit of surfclams
+- 👩🏻‍💻 I use tools such as population genetics, genomics, data science, bioinformatics
+
+Research interests keywords: admixture & introgression, inbreeding, adaptation, divergence, domestication 
