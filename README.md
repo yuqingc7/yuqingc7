@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I am Yuqing Chen (she/her). My first name can be pronounced as "yu-ch'ing". Friends also call me Iris. 
 
-I'm currently a Conservation Biology PhD candidate at the Department of Natural Resources and the Environment, Cornell University. 
-- 🌊 My research focuses on marine population conservation and restoration
-- 🧬 I'm interested in evolutionary and ecological inquiries about shellfish populations
-- 🦪 I study eastern oysters and a little bit of surfclams
-- 👩🏻‍💻 I use population genetics, genomics, data science, bioinformatics
+I'm currently a Conservation Genetics PhD candidate at the Department of Natural Resources and the Environment, Cornell University. 
+- 🧬 I’m interested in evolutionary and ecological inquiries addressed through genomics.
+- 👩🏻‍💻 My toolkit includes population genetics, genomics, bioinformatics, statistics, simulations, and data science. 
+- 🦪 Currently, I study eastern oysters and a bit of surfclams
+- 🌊 I apply my research to marine conservation and restoration
 
-Research interests keywords: admixture & introgression, inbreeding, adaptation, divergence, domestication 
+Research interests: admixture & introgression, adaptation, inbreeding, genetic load, domestication
