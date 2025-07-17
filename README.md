@@ -20,7 +20,7 @@ I am Yuqing Chen (she/her). My first name can be pronounced as "yu-ch'ing". Frie
 I'm currently a Conservation Genetics PhD candidate at the Department of Natural Resources and the Environment, Cornell University. 
 - 🧬 I’m interested in evolutionary and ecological inquiries addressed through genomics.
 - 👩🏻‍💻 My toolkit includes population genetics, genomics, bioinformatics, statistics, simulations, and data science. 
-- 🦪 Currently, I study eastern oysters and a bit of surfclams
-- 🌊 I apply my research to marine conservation and restoration
+- 🦪 Currently, I study eastern oysters and a bit of surfclams. 
+- 🌊 I apply my research to marine conservation and restoration. 
 
 Research interests: admixture & introgression, adaptation, inbreeding, genetic load, domestication
